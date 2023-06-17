@@ -1,0 +1,11 @@
+Implementation 
+-> Linked List O(n)
+-> BST O(log(n))
+-> Array -> O(1)  -----> Bucket Array
+
+Love -> Hash Function -> 0th index
+
+HashFunction
+-> Hash Code
+->Compression Function
+
